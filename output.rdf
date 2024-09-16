@@ -1,0 +1,71 @@
+@prefix ns1: <http://example.org/materials/> .
+
+ns1:alb a ns1:Color ;
+    ns1:name "alb" .
+
+ns1:arina a ns1:Wood ;
+    ns1:name "arina" .
+
+ns1:artar a ns1:Wood ;
+    ns1:name "artar" .
+
+ns1:brad a ns1:Wood ;
+    ns1:name "brad" .
+
+ns1:carpen a ns1:Wood ;
+    ns1:name "carpen" .
+
+ns1:castan a ns1:Wood ;
+    ns1:name "castan" .
+
+ns1:cedru a ns1:Wood ;
+    ns1:name "cedru" .
+
+ns1:corn a ns1:Wood ;
+    ns1:name "corn" .
+
+ns1:fag a ns1:Wood ;
+    ns1:name "fag" .
+
+ns1:fistic a ns1:Wood ;
+    ns1:name "fistic" .
+
+ns1:frasin a ns1:Wood ;
+    ns1:name "frasin" .
+
+ns1:ienupar a ns1:Wood ;
+    ns1:name "ienupar" .
+
+ns1:mahon a ns1:Wood ;
+    ns1:name "mahon" .
+
+ns1:mar a ns1:Wood ;
+    ns1:name "mar" .
+
+ns1:mesteacan a ns1:Wood ;
+    ns1:name "mesteacan" .
+
+ns1:pin a ns1:Wood ;
+    ns1:name "pin" .
+
+ns1:platan a ns1:Wood ;
+    ns1:name "platan" .
+
+ns1:salcie a ns1:Wood ;
+    ns1:name "salcie" .
+
+ns1:scorus a ns1:Wood ;
+    ns1:name "scorus" .
+
+ns1:stejar a ns1:Wood ;
+    ns1:name "stejar" .
+
+ns1:tei a ns1:Wood ;
+    ns1:name "tei" .
+
+ns1:tisa a ns1:Wood ;
+    ns1:name "tisa" .
+
+ns1:ulm a ns1:Wood ;
+    ns1:name "ulm" .
+
